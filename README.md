@@ -2,9 +2,9 @@
 
 ### Sobre mí
 - 🎓 Estudiante universitario de Tecnicaura en Programación | UTN
-- 👨‍💻 Mi enfoque está orientado en el desarrollo de aplicaciones de escritorio (WinForms, WPF)
-- 🌐 También tengo conocimientos en HTML, CSS3 y Bootstrap
-- 💾 Bases de datos que manejo: SQL y XML
+- 👨‍💻 Enfoque orientado en el desarrollo de aplicaciones de escritorio (WinForms, WPF)
+- 🌐 Conocimientos en HTML, CSS3 y Bootstrap
+- 💾 Bases de datos: SQL y XML
 
 ### Tecnologías y Herramientas
 
