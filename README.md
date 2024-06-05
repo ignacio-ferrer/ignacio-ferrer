@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hola, soy [Ignacio] 👋
 
-<!--
-**ignacio-ferrer/ignacio-ferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+- 🎓 Estudiante universitario de Tecnicaura en Programación / UTN
+- 👨‍💻 Mi enfoque está orientado en el desarrollo de aplicaciones de escritorio (WinForms, WPF)
+- 🌐 También tengo conocimientos en HTML, CSS3 y Bootstrap
+- 💾 Bases de datos que manejo: SQL y XML
 
-Here are some ideas to get you started:
+### Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Lenguajes de Programación
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+#### Desarrollo de Escritorio
+- ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+#### Desarrollo Web
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Bases de Datos
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+### Contacto
+- 📧 [Email](ferrerignacio@outlook.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/ferrerignacio/))
