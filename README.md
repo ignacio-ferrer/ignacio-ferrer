@@ -1,7 +1,7 @@
-## Hola, soy [Ignacio] 👋
+## Hola, soy Ignacio 👋
 
 ### Sobre mí
-- 🎓 Estudiante universitario de Tecnicaura en Programación / UTN
+- 🎓 Estudiante universitario de Tecnicaura en Programación | UTN
 - 👨‍💻 Mi enfoque está orientado en el desarrollo de aplicaciones de escritorio (WinForms, WPF)
 - 🌐 También tengo conocimientos en HTML, CSS3 y Bootstrap
 - 💾 Bases de datos que manejo: SQL y XML
