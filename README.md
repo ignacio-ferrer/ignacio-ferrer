@@ -25,5 +25,5 @@
 - ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 ### Contacto
-- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ferrerignacio@outlook.com)
-- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrerignacio/)
+- 📧 <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">ferrerignacio@outlook.com</a>
+- 🌐<a href="https://www.linkedin.com/in/tuusuario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">https://www.linkedin.com/in/ferrerignacio/</a>
