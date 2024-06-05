@@ -26,4 +26,4 @@
 
 ### Contacto
 - 📧 [Email](ferrerignacio@outlook.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/ferrerignacio/))
+- 💼 [LinkedIn] (https://www.linkedin.com/in/ferrerignacio/)
