@@ -29,11 +29,11 @@
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-ferrer_GITHUB&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-ferrerGITHUB&layout=compact)
 
 ## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ignacio-ferrer_GITHUB&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ignacio-ferrerGITHUB&show_icons=true)
 
 ### Contacto
 - 📧 <a href="mailto:ferrerignacio@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
