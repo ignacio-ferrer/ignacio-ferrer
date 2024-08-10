@@ -13,6 +13,7 @@
 
 #### Frameworks y Plataformas
 - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- ![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Desarrollo de Escritorio
 - ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -24,7 +25,7 @@
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Bases de Datos
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Contacto
 - <a href="mailto:ferrerignacio@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
