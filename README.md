@@ -4,7 +4,7 @@
 - 🎓 Estudiante universitario de Tecnicatura en Programación.
 - 👨‍💻 Enfoque orientado en el desarrollo de aplicaciones de escritorio (WinForms, WPF).
 - 🌐 Conocimientos en HTML, CSS3 y Bootstrap.
-- 💾 Bases de datos: SQL y XML.
+- 💾 Bases de datos: SQL SERVER
 
 ### Tecnologías y Herramientas
 
@@ -25,7 +25,6 @@
 
 #### Bases de Datos
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 ### Contacto
 - <a href="mailto:ferrerignacio@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
